@@ -13,7 +13,7 @@ Recomendaciones estratégicas: Proponer soluciones viables y fundamentadas en da
 
 Impacto: 
 
-Tu trabajo tendrá un impacto significativo en la toma de decisiones estratégicas de la empresa, optimizando la ubicación de sus laboratorios y mejorando su capacidad de respuesta ante futuras pandemias.
+Este trabajo tendrá un impacto significativo en la toma de decisiones estratégicas de la empresa, optimizando la ubicación de sus laboratorios y mejorando su capacidad de respuesta ante futuras pandemias.
 
 
 Habilidades a desarrollar:
@@ -28,10 +28,4 @@ Herramientas:
 * Python (Pandas, Numpy, Mathplotlib)
 * Base de datos COVID-19
 
-Este reto y demuestra tus habilidades analíticas, de comunicación y de resolución de problemas para contribuir al éxito de la empresa en un contexto global cambiante.
-
-Nota:
-* Se ha reformulado el texto para hacerlo más atractivo y dinámico, utilizando un lenguaje más claro y conciso.
-* Se ha enfatizado el impacto del proyecto y las habilidades que se desarrollarán.
-* Se ha añadido una llamada a la acción para motivar a los participantes.
-* Se ha mantenido la información esencial del proyecto original.
+Este reto y demuestra las habilidades analíticas, de comunicación y de resolución de problemas para contribuir al éxito de la empresa en un contexto global cambiante.
